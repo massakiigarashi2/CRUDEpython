@@ -1,0 +1,9 @@
+G:\
+cd G:\webappCRUD\
+conda activate streamlit
+
+streamlit run Cadastrar.py
+
+streamlit run Atualizar.py
+
+python -m pip install --upgrade Flask
